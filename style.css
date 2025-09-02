@@ -1,0 +1,11 @@
+.inputField {
+  width: 50%;
+}
+
+@media (min-width: 992px) {
+  .min-height-lg {
+    min-height: 45vh;
+  }
+}
+
+;
